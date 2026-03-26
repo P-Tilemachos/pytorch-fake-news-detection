@@ -92,3 +92,11 @@ Prediction: Fake
 ## Author
 
 AI / Machine Learning enthusiast focused on NLP and Deep Learning applications.
+
+
+## Repository Structure
+
+Fake_News_Detection.ipynb – training and evaluation notebook  
+best_fake_news_lstm.pth – trained LSTM model  
+fake_news_training_curves.png – training results visualization  
+requirements.txt – required Python libraries
